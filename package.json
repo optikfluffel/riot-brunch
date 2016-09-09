@@ -12,8 +12,8 @@
     "test": "node_modules/.bin/mocha"
   },
   "dependencies": {
-    "progeny": "^0.5.2",
-    "riot": "^2.3.12"
+    "progeny": "^0.9.0",
+    "riot": "^2.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
